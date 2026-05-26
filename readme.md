@@ -1,4 +1,4 @@
-4 Mounth Study => 460,587 Prompts
+4 Mounth Study -> 460,587 Prompts
 
 <img src="juste for readme/learning.gif" alt="Learning boy in desktop" />
 
